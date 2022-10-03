@@ -42,9 +42,11 @@ Please note: only the section of 'Other Related Projects' is under construction.
 # Work Experience
 
 - Project Engineer via Wipro @ Meta, Austin, TX, Dec 2020 to Present
+--- SQL, Python, Jira, Tableau, Azure, VLOOKUP, Pivot table
 - Security Detail via Allied Universal @ Capital Metro, Austin, TX, Apr 2019 to Mar 2021
 - Remodeling Specialist via Walmart, Harker Heights, TX, Dec 2018 to Jan 2019
 - Operations Reporting Analyst via Teleperformance @ American Express, Killeen, TX, Sep 2016 to Dec 2018
+--- Oracle
 - Customer Service Representative via Teleperformance @ American Express, Killeen, TX, Apr 2014 to Dec 2018
 
 ---
