@@ -4,12 +4,7 @@
 
 ### General Analytics Projects
 
-#### [Internal Blog Post Project](/sample_project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-This project 
-
----
-#### [Linked File Project](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
+#### [GitHub File Project](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
 [<img src="main-logo.svg"/>](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
 For this project, I explored helicopter prison break via Juypter Notebook. Please note this would be under a file called 'Basics-Copy.ipynb'.
 
@@ -20,9 +15,14 @@ Data Visualizations with Tableau. While doing 21 Days of Data with Avery Smith, 
 
 ---
 
+#### [Undecided](/sample_project)
+I am working on upcoming projects. :)
+
+---
+
 Please note the section below is under construction.
 
-### Category Name 2
+### Other Related Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
