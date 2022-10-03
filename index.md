@@ -31,15 +31,13 @@ Please note: only the section of 'Other Related Projects' is under construction.
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
 # Areas of Interest
 
 - Cloud Computing (IBM Cognos Analytics, AWS)
-- Data Visualization (Tableau and Power BI Server)
+- Data Visualization (Tableau, Power BI Server)
 
 ---
 
