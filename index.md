@@ -11,7 +11,7 @@ This project
 ---
 #### [Linked File Project](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
 [<img src="main-logo.svg"/>](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
-For this project, I explored helicopter prison break via Juypter Notebook. 
+For this project, I explored helicopter prison break via Juypter Notebook. Please note this would be under a file called 'Basics-Copy.ipynb'.
 
 ---
 #### [External Link Project](https://public.tableau.com/app/profile/james6596)
