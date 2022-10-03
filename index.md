@@ -1,12 +1,9 @@
-# About Me
-
----
-
 # Areas of Interest
 
 ---
 
-### 
+# Cloud Computing (IBM Cognos Analytics)
+# Data Visualization (Tableau and Power BI Server)
 
 ---
 
@@ -46,9 +43,8 @@ Please note the section below is under construction.
 
 #### Some of the best ways to reach me are:
 
-<br><br>
 [Linkedin](linkedin.com/in/jamesleungda)
 [<img src="images.png"/>](linkedin.com/in/jamesleungda)
-<br><br>
+<br>
 <a href="mailto:james.leung8688@gmail.com">Email</a> 
 
