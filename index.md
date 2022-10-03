@@ -1,10 +1,3 @@
-# Areas of Interest
-
-- Cloud Computing (IBM Cognos Analytics)
-- Data Visualization (Tableau and Power BI Server)
-
----
-
 # My Data Analytics Portfolio
 
 ---
@@ -36,6 +29,13 @@ Please note: only the section of 'Other Related Projects' is under construction.
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
+---
+
+# Areas of Interest
+
+- Cloud Computing (IBM Cognos Analytics, AWS)
+- Data Visualization (Tableau and Power BI Server)
 
 ---
 
