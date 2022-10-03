@@ -15,7 +15,7 @@
 ---
 #### [External Link Project](https://public.tableau.com/app/profile/james6596)
 [<img src="LOGO-TABLEAU-Benchmark.png"/>](https://public.tableau.com/app/profile/james6596)
-Data Visualizations with Tableau. While doing 21 Days of Data with Avery Smith, one of the projects I did work on was 'Crime In NYC 2018'.
+<br>Data Visualizations with Tableau. While doing 21 Days of Data with Avery Smith, one of the projects I did work on was 'Crime In NYC 2018'.
 
 ---
 
