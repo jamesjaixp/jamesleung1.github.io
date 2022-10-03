@@ -1,11 +1,11 @@
-title: Avery Smith # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: James Leung # your name (or website title) here
+logo: "1649160819835.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I love data.
   <br><br>
-  Sports. Dog dad. Teching analytics. 
+  Hiking. Travel. Reading mystery or science fiction books. 
   <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jamesleungda/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
