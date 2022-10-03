@@ -39,10 +39,7 @@ Please note the section below is under construction.
 
 ---
 
-#### Some of the best ways to reach me are:
+#### The best ways to reach me is:
 
-[Linkedin](linkedin.com/in/jamesleungda)
-[<img src="images.png"/>](linkedin.com/in/jamesleungda)
-<br>
 <a href="mailto:james.leung8688@gmail.com">Email</a> 
 
