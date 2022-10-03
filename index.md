@@ -1,3 +1,15 @@
+# About Me
+
+---
+
+# Areas of Interest
+
+---
+
+### 
+
+---
+
 # My Data Analytics Portfolio
 
 ---
@@ -35,7 +47,8 @@ Please note the section below is under construction.
 #### Some of the best ways to reach me are:
 
 <br><br>
-<a href="linkedin.com/in/jamesleungda">View My LinkedIn Profile</a> 
+[Linkedin](linkedin.com/in/jamesleungda)
+[<img src="images.png"/>](linkedin.com/in/jamesleungda)
 <br><br>
 <a href="mailto:james.leung8688@gmail.com">Email</a> 
 
