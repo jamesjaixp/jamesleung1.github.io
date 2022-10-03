@@ -9,8 +9,8 @@
 This project 
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="LOGO-TABLEAU-Benchmark.png"/>
+#### [Linked File Project](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
+[<img src="main-logo.svg"/>](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
 For this project, I explored helicopter prison break via Juypter Notebook. 
 
 ---
