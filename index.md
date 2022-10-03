@@ -1,9 +1,7 @@
 # Areas of Interest
 
----
-
-# Cloud Computing (IBM Cognos Analytics)
-# Data Visualization (Tableau and Power BI Server)
+## Cloud Computing (IBM Cognos Analytics)
+## Data Visualization (Tableau and Power BI Server)
 
 ---
 
