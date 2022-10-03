@@ -11,7 +11,7 @@ This project
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="LOGO-TABLEAU-Benchmark.png"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I explored helicopter prison break via Juypter Notebook. 
 
 ---
 #### [External Link Project](https://public.tableau.com/app/profile/james6596)
