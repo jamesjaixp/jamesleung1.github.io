@@ -27,7 +27,7 @@ I am working on upcoming projects. :)
 
 ---
 
-Please note the section below is under construction.
+Please note: only the section of 'Other Related Projects' is under construction.
 
 ### Other Related Projects
 
