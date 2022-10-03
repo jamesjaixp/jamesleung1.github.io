@@ -15,8 +15,8 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://public.tableau.com/app/profile/james6596)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://public.tableau.com/app/profile/james6596)
-Data Visualizations. 
+[<img src="LOGO-TABLEAU-Benchmark.png"/>](https://public.tableau.com/app/profile/james6596)
+Data Visualizations with Tableau. 
 
 ---
 
