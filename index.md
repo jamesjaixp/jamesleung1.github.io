@@ -6,11 +6,11 @@
 
 #### [GitHub File Project](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
 [<img src="main-logo.svg"/>](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/files)
-For this project, I explored helicopter prison break via Juypter Notebook. 
+<br>For this project, I explored helicopter prison break via Juypter Notebook. 
 <br> The conclusion(s) I came to: 
 <br>The years with the most attempts were in 1986, 2001, 2007 and 2009.
 <br>The ecountry with the largest occurance is in France.
-<br> Please note this would be under a file called 'Basics-Copy.ipynb'.
+<br>Please note this would be under a file called 'Basics-Copy.ipynb'.
 
 ---
 #### [External Link Project](https://public.tableau.com/app/profile/james6596)
