@@ -37,5 +37,5 @@ Please note the section below is under construction.
 <br><br>
 <a href="linkedin.com/in/jamesleungda">View My LinkedIn Profile</a> 
 <br><br>
-
+<a href="mailto:james.leung8688@gmail.com subject=I would like to hire you!">Email</a> 
 
