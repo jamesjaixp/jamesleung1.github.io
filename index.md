@@ -28,7 +28,7 @@ Please note: only the section of 'Other Related Projects' is under construction.
 
 ### Other Related Projects
 
-- [Project 1 Title](http://example.com/)
+- [Optimizing Sports Retail](https://github.com/jamesjaixp/jamesleung1.github.io/tree/master/OptimizingSportsRetail)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 
